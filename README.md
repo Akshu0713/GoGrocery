@@ -1,16 +1,15 @@
 
-# Amazon - Clone using ReactJs
+# Amazon - Clone
 
 **Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
 ## Tech We Used
 
-- ReactJs
+- Vanilla JS
 - Firebase Hosting
 - Firebase Auth
 - Firebase Storage
-- React-Dom
-- React Redux
+- Js-DOM
 - Stripe payment
 
 ## Features
