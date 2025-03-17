@@ -1,5 +1,4 @@
 
-# Amazon - Clone
 
 **Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
